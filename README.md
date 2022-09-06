@@ -19,7 +19,7 @@ Artificial Intelligence and Image Based Face Expression Recognition System
 - command --> python TrainEmotionDetector.py
 - I added one more training set to learn. That's why I'm using the same training set in both, but we need to add it to a folder called data2 to avoid confusion.
 - command --> python TrainEmotionDetection.py
-
+ 
 It will take several hours depends on your processor. (On i7 processor with 16 GB RAM it took me around 4 hours)
 after Training , you will find the trained model structure and weights are stored in your project directory.
 emotion_model.json
