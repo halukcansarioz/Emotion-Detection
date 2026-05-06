@@ -13,12 +13,12 @@ Bu proje, **Ankara Üniversitesi Bilgisayar Mühendisliği Bölümü** bitirme p
 - [Özellikler](#özellikler)
 - [Kullanılan Teknolojiler](#kullanılan-teknolojiler)
 - [Kurulum ve Kullanım](#kurulum-ve-kullanım)
-- [🗂 Proje Yapısı](#-proje-yapısı)
-- [📊 Veri Seti Bilgisi](#-veri-seti-bilgisi)
-- [🛠 Geliştirme Süreci](#-geliştirme-süreci)
-- [🤝 Katkıda Bulunma](#-katkıda-bulunma)
-- [📧 İletişim](#-iletişim)
-- [📜 Lisans](#-lisans)
+- [Proje Yapısı](#proje-yapısı)
+- [Veri Seti Bilgisi](#veri-seti-bilgisi)
+- [Geliştirme Süreci](#geliştirme-süreci)
+- [Katkıda Bulunma](#katkıda-bulunma)
+- [İletişim](#iletisim)
+- [Lisans](#lisans)
 
 ---
 
@@ -124,6 +124,7 @@ git push origin ozellik/yeni-model-iyilestirmesi
 
 ---
 
+<a name="iletisim"></a>
 ## 📧 İletişim
 **Haluk Can Sarıöz** - [GitHub Profilim](https://github.com/halukcansarioz)  
 **Mesut ÖZLAHLAN** - [GitHub Profili](https://github.com/mesutozlahlan)  
