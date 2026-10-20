@@ -1,7 +1,7 @@
 # 🎭 Emotion Detection
 ### (Artificial Intelligence and Image-Based Face Expression Recognition System)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](#)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](#)
@@ -10,6 +10,7 @@ This project is a **real‑time facial expression recognition system** powered b
 
 ## 📚 Table of Contents
 - [About the Project](#about-the-project)
+- [Sample Videos](#sample-videos)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation & Usage](#installation--usage)
@@ -28,6 +29,17 @@ This work combines image processing and artificial intelligence techniques to de
 - **Developers:** Haluk Can SARIÖZ & Mesut ÖZLAHLAN
 - **Advisor:** Research Assistant İrem ÜLKÜ
 - **Institution:** Ankara University, Faculty of Engineering, Department of Computer Engineering
+
+---
+
+## Sample Videos
+
+<p align="center">
+  <img src="./WhatsApp%20Video%202022-05-03%20at%2023.56.44.gif" alt="Emotion Detection Demo" width="75%" />
+</p>
+
+- 🎥 **[Sample Video 1 (pexels-artem-podrez-8088630.mp4)](./Sample_videos/pexels-artem-podrez-8088630.mp4)**
+- 🎥 **[Sample Video 2 (pexels-gabby-k-5273028.mp4)](./Sample_videos/pexels-gabby-k-5273028.mp4)**
 
 ---
 
