@@ -12,13 +12,13 @@ emotion_model = model_from_json(loaded_model_json)
 emotion_model.load_weights("model/emotion_model.h5")
 print("Loaded model from disk")
 
-cap = cv2.VideoCapture("../Emotion_detection_with_CNN-main/Sample_videos/pexels-artem-podrez-8088630.mp4")
+cap = cv2.VideoCapture("Sample_videos/pexels-artem-podrez-8088630.mp4")
 
 while True:
     ret, frame = cap.read()
-    frame = cv2.resize(frame, (1280, 720))
     if not ret:
         break
+    frame = cv2.resize(frame, (1280, 720))
     face_detector = cv2.CascadeClassifier('haarcascades/haarcascade_frontalface_default.xml')
     gray_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
