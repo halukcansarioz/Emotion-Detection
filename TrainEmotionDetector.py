@@ -2,7 +2,7 @@ import cv2
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, Dense, Dropout, Flatten
 import tensorflow as tf
-from tensorflow.python.keras.layers import  Dense,Adam
+from tensorflow.python.keras.layers import  Dense
 from tensorflow.keras.optimizers import Adam
 from keras.preprocessing.image import ImageDataGenerator
 from matplotlib import pyplot as plt
